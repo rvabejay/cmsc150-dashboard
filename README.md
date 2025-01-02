@@ -7,4 +7,5 @@ An interactive R-based web application capable of performing polynomial regressi
 3. Modify the following code in line 1 of app.R to change your current working directory:
    setwd(“<path_containing_the_dashboard_script>”)
 4. Click “Run App” in the upper right corner of the source pane to run the application.
+
 For detailed user information, open **USER MANUAL.pdf**
